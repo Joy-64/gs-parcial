@@ -1,0 +1,2 @@
+cascada:
+es cuando creas un software paso a paso, primero a->b->c. No es muy versatil, por eso se utiliza mas el modelo agil-scrum. 
