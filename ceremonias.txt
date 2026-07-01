@@ -1,0 +1,4 @@
+ceremonias de scrum; 
+
+las reuniones de 15 minutos; donde dialogan de los avances, entre otros.
+la reunion con el product owner; donde discuten los requisitos que quiere que tenga el producto a diseñar.
