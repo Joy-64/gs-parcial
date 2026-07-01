@@ -1,3 +1,5 @@
 Historia de usuario:
 
 los requerimientos del usuario, datos de las funcionalidades.
+
+parcial avanzado
